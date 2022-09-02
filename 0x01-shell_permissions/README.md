@@ -1,1 +1,1 @@
-print a script that switches the current user to betty
+who am i
