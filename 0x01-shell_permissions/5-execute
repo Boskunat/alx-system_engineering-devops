@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x switches
+chmod u+x hello 
