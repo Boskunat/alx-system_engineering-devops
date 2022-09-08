@@ -1,2 +1,2 @@
 #!/bon/bash
-grep -i "root" -A ) /etc/passwd
+grep -A3 "root" /etc/passwd
